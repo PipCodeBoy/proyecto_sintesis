@@ -1,0 +1,13 @@
+{
+	"dbconf":{
+		"driver":"mysql",
+		"dbname":"proyect",
+		"dbhost":"localhost",
+		"dbuser":"root",
+		"dbpass":"root"
+	},
+		"app":{
+		"title":"TicTac Juegos"
+	}
+
+}
